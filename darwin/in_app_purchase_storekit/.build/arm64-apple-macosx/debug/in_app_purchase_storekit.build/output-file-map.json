@@ -1,0 +1,35 @@
+{
+  "": {
+    "swift-dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/master.swiftdeps"
+  },
+  "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/Sources/in_app_purchase_storekit/InAppPurchasePlugin.swift": {
+    "dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin.d",
+    "object": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin.swift.o",
+    "swiftmodule": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin.swiftdeps"
+  },
+  "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/Sources/in_app_purchase_storekit/StoreKit2/InAppPurchasePlugin+StoreKit2.swift": {
+    "dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin+StoreKit2.d",
+    "object": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin+StoreKit2.swift.o",
+    "swiftmodule": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin+StoreKit2~partial.swiftmodule",
+    "swift-dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/InAppPurchasePlugin+StoreKit2.swiftdeps"
+  },
+  "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/Sources/in_app_purchase_storekit/StoreKit2/StoreKit2Translators.swift": {
+    "dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/StoreKit2Translators.d",
+    "object": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/StoreKit2Translators.swift.o",
+    "swiftmodule": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/StoreKit2Translators~partial.swiftmodule",
+    "swift-dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/StoreKit2Translators.swiftdeps"
+  },
+  "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/Sources/in_app_purchase_storekit/StoreKit2/sk2_pigeon.g.swift": {
+    "dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/sk2_pigeon.g.d",
+    "object": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/sk2_pigeon.g.swift.o",
+    "swiftmodule": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/sk2_pigeon.g~partial.swiftmodule",
+    "swift-dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/sk2_pigeon.g.swiftdeps"
+  },
+  "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/resource_bundle_accessor.d",
+    "object": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/resource_bundle_accessor.swiftdeps"
+  }
+}

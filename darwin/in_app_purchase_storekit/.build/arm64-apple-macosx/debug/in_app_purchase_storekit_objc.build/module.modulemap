@@ -1,0 +1,4 @@
+module in_app_purchase_storekit_objc {
+    umbrella "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/Sources/in_app_purchase_storekit_objc/include/in_app_purchase_storekit_objc"
+    export *
+}

@@ -1,0 +1,4 @@
+module in_app_purchase_storekit {
+    header "/Users/s19597/Documents/GitHub/in_app_purchase_storekit_fork/darwin/in_app_purchase_storekit/.build/arm64-apple-macosx/debug/in_app_purchase_storekit.build/in_app_purchase_storekit-Swift.h"
+    requires objc
+}
